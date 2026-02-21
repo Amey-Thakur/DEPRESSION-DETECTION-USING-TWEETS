@@ -229,7 +229,15 @@ Launch the sentiment analysis dashboard:
 python "Source Code/app.py"
 ```
 
+> [!TIP]
+> ### Linguistic Sentiment Simulation | SVM Predictive Model
+> 
+> Experience the interactive **Depression Detection** simulation directly in your browser through the working **Hugging Face Space**. This platform features a **Support Vector Machine (SVM)** model integrated with a **spaCy** NLP pipeline to analyze textual sentiment, providing a visual demonstration of linguistic feature extraction and psychological classification boundaries.
+>
+> [**Launch Model on Hugging Face**](https://huggingface.co/spaces/ameythakur/Depression-Detection-Using-Tweets)
+
 ---
+
 
 <!-- USAGE GUIDELINES -->
 <a name="usage-guidelines"></a>
