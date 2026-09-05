@@ -1,0 +1,33 @@
+# Depression Detection Using Tweets
+
+> Machine Learning Project for Depression Detection Using Tweets.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 5 June 2022
+
+## What is in this repository
+
+- Mega, 6 files
+- Source Code, 43 files
+- docs, 1 file
+- screenshots, 6 files
+- Dockerfile
+
+## Subject terms
+
+computer-engineering, data-science, depression-analysis,
+depression-detection, flask, machine-learning, nlp, nlp-machine-learning,
+python, sentiment-analysis, spacy-nlp, supervised-machine-learning,
+support-vector-machine, svm, twitter-analysis
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://huggingface.co/spaces/ameythakur/Depression-Detection-Using-Tweets
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
